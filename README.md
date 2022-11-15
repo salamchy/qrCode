@@ -1,2 +1,0 @@
-# qrCode
-code for qrcode
